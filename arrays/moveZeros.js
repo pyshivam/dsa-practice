@@ -39,9 +39,6 @@ function moveZero(numbers) {
       partition++
     }
   }
-
-
-  return numbers
 }
 
 
